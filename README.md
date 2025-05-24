@@ -11,7 +11,7 @@ Always building, always (intentionally... mostly 👀) breaking things, and neve
 ### 🛠️ My Cloudy Skillset:
 - ☁️ AWS Certified: SAA + CCP (yes, I have the badges to prove it 💅)
 - 🔐 Cybersecurity Analyst – from threat hunting to phishing analysis
-- 💻 Terraforming my way through cloud automation (and manifesting zero errors)
+- 💻 Terraforming my way through cloud automation (and manifesting zero errors👀)
 - 🧪 Breaking stuff in the lab so you don’t have to (you’re welcome!)
 
 ---
@@ -39,4 +39,4 @@ Always building, always (intentionally... mostly 👀) breaking things, and neve
 
 ---
 
-✨ “Securing the cloud and serving vibes 🥂💅☁️” ✨
+✨ Securing the cloud and serving vibes 🥂💅☁️✨
