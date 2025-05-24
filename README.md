@@ -16,7 +16,7 @@ Always building, always (intentionally... mostly 👀) breaking things, and neve
 
 ---
 
-### 💅 Fun Fact About Me
+### 🎤 Spill the Tea, Tech Edition:
 - I learned about IAM and now I have trust issues. 😂  
   No one gets full access around here unless they really deserve it. 😤🔐✨
 
