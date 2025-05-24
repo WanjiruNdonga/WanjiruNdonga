@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">⚜️ Hey, I’m Mercy!</h1>
 
-<!--
-**WanjiruNdonga/WanjiruNdonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Welcome to my little corner of GitHub where Cloud meets cute ☁️💖 <br>
+I’m a Cybersecurity & Cloud girlie navigating Terraform errors one iced coffee at a time. <br>
+Always building, always (intentionally... mostly 👀) breaking things, and never taking tech <em>too</em> seriously.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Cloudy Skillset:
+- ☁️ AWS Certified: SAA + CCP (yes, I have the badges to prove it 💅)
+- 🔐 Cybersecurity Analyst – from threat hunting to phishing analysis
+- 💻 Terraforming my way through cloud automation (and manifesting zero errors)
+- 🧪 Breaking stuff in the lab so you don’t have to (you’re welcome!)
+
+---
+
+### 💅 Fun Fact About Me
+- I learned about IAM and now I have trust issues. 😂  
+  No one gets full access around here unless they really deserve it. 😤🔐✨
+
+- Yes, I talk to my cloud resources. 🙈  
+  “Please deploy this time, I beg…” – Me to Terraform, daily 🧎🏽‍♀️💻✨
+
+---
+
+### ✨ Currently Manifesting (because why not be iconic?):
+- Making secure cloud infrastructure look *aesthetic* (if it isn’t cute, I don’t want it)
+- Building a Terraform study tracker, because, darling, even complex infrastructure needs cute planning. 👑
+- Landing a role where I can serve logs, lip gloss, and legendary energy—all at once 💄✨
+- More iced coffee, less cloud drama (please and thank you, universe!)
+
+---
+
+### 🌐 Let’s connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/mercy-ndonga)
+- 🌍 Nairobi-based, globally curious 🌍
+
+---
+
+✨ “Securing the cloud and serving vibes 🥂💅☁️” ✨
