@@ -33,6 +33,13 @@ Always building, always (intentionally... mostly 👀) breaking things, and neve
 
 ---
 
+### 🚀 Ready to see more?😎:
+
+- 📄 [See My Resume (PDF)](https://drive.google.com/file/d/1x7KUAShfmPwE_BOmdNF6h_beE-ThECnG/view?usp=sharing)
+- 🔗 [Visit My Portfolio Website](https://yourname.dev)
+  
+---  
+
 ### 🌐 Let’s connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/mercy-ndonga)
 - 🌍 Nairobi-based, globally curious 🌍
