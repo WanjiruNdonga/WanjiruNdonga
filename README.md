@@ -1,7 +1,7 @@
 <h1 align="center">⚜️ Hey, I’m Mercy!</h1>
 
 <p align="center">
-Welcome to my little corner of GitHub where Cloud meets cute ☁️💖 <br>
+My cloud, my rules, my aesthetic. Welcome to my journey. 👑☁️ <br>
 I’m a Cybersecurity & Cloud girlie navigating Terraform errors one iced coffee at a time. <br>
 Always building, always (intentionally... mostly 👀) breaking things, and never taking tech <em>too</em> seriously.
 </p>
